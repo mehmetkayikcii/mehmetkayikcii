@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://wakatime.com/@40f7ba9d-f8a8-48e9-a4ce-f06b3cdb705c"><img src="https://wakatime.com/badge/user/40f7ba9d-f8a8-48e9-a4ce-f06b3cdb705c.svg" alt="Total time coded since Apr 11 2023" /></a>
+<a href="https://wakatime.com/@40f7ba9d-f8a8-48e9-a4ce-f06b3cdb705c"><img src="https://wakatime.com/badge/user/40f7ba9d-f8a8-48e9-a4ce-f06b3cdb705c.svg" alt="Total time coded since Dec 12 2022" /></a>
 </p>
 
 
